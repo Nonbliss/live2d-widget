@@ -36,7 +36,7 @@ if (screen.width >= 768) {
 			waifuPath: live2d_path + "waifu-tips.json",
 			//apiPath: "https://github.com/Nonbliss/live2d_api/",
 			cdnPath: live2d_path + "cdn/",
-			tools: ["hitokoto", "asteroids", "switch-texture", "photo", "info", "quit"]
+			tools: ["hitokoto", "asteroids", "switch-model", "switch-texture", "photo", "info", "quit"]
 		});
 	});
 }
